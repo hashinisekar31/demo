@@ -1,1 +1,1 @@
-print ("Hashini")
+print("hashini")
